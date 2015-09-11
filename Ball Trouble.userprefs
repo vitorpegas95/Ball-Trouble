@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\BubbleTroublePlayer.cs">
+    <Files>
+      <File FileName="Assets\Scripts\ProjectileDestroyer.cs" Line="14" Column="32" />
+      <File FileName="Assets\Scripts\BubbleTroublePlayer.cs" Line="128" Column="26" />
+      <File FileName="Assets\Scripts\BubbleTroubleProjectile.cs" Line="10" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
